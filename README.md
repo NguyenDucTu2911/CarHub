@@ -10,5 +10,5 @@ pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-link deploy : [https://car-hub-boj6.vercel.app/(https://car-hub-boj6.vercel.app/)]
+link deploy : [https://car-hub-boj6.vercel.app/]
 
