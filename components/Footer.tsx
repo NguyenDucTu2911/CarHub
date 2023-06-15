@@ -29,7 +29,7 @@ function Footer() {
                     {footerLinks.map((link) => {
                         return (
                             <React.Fragment>
-                                <div key={link.title}
+                                <div
                                     className='footer__link'>
                                     <h3 className='font-bold'>{link.title}</h3>
                                     {link.links.map((item) => {

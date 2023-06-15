@@ -46,7 +46,7 @@ export default function Home() {
   }
 
   useEffect(() => {
-    getCars()
+    getCars();
   }, [fuel, year, limit, manufacturer, model])
 
   // const allCars = await fetchCas({
